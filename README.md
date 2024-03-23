@@ -16,4 +16,4 @@ FinSight was developed to simplify financial analysis and empower users to make 
 Here, I haven't revealed my API Key . It will look like this. I am storing this in secret_key
 openai_key='sk-'
 
-You can watch the video demonstartion here- https://youtu.be/qO9-MyXDwI0
+You can watch the video demonstartion here- https://youtu.be/rAXZyZw1C1Y
